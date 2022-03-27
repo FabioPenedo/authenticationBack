@@ -1,4 +1,4 @@
-![pc](https://user-images.githubusercontent.com/82732587/150899623-8c7a8b23-ad67-4f07-8d1d-3f2b228357a7.gif)
+![pc](https://user-images.githubusercontent.com/82732587/160290101-bd4ac6aa-de80-4d03-aa3d-7058787b0fff.gif)
 
 ## 💻 Projeto
 
@@ -50,6 +50,12 @@ Inicie o servidor
 
 ```bash
 npm run start-dev
+```
+
+Front-end
+
+```bash
+https://github.com/FabioPenedo/authenticationFront
 ```
 
 Feito por Fábio Penedo: 👋 [Entre em contato](https://www.linkedin.com/in/fabiopenedo/)
